@@ -47,7 +47,7 @@ jobs:
           github-token: ${{ secrets.MY_DEV }}
           version-file: "./package.json,./package-lock.json,./config/app.json"
           git-branch: "release-from-${{ github.sha }}"
-          skip-on-empty: false
+          skip-on-empty: true
           skip-git-pull: true
 
       # create PR using GitHub CLI
