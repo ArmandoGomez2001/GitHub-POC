@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/ArmandoGomez2001/GitHub-POC/compare/v1.0.0...v1.0.1) (2023-06-17)
+
+
+### Bug Fixes
+
+* added html ([86ec2a0](https://github.com/ArmandoGomez2001/GitHub-POC/commit/86ec2a04944837b5d600bb8498ed5c8291d7273c))
+
 ## 1.0.0 (2023-06-13)
 
 
